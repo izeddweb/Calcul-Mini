@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif  ;
+}
+.container{
+    background-color: rgb(196, 99, 99);
+    margin: auto;
+    width: 80%;
+    padding: 40px;
+}
+.btn{
+    width: 60px;
+    height: 30px;
+}
+input{
+    height: 30px;
+}
+.divPara{
+    background-color: rgb(77, 109, 137);
+    height: 60px;
+}
+.sp {
+    display: inline-block;
+    background-color: rgb(196, 99, 99);
+    height: 30px;
+    width: 30px;
+}
